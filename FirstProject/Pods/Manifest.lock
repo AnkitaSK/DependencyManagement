@@ -1,0 +1,16 @@
+PODS:
+  - SecondProj (0.1.0)
+
+DEPENDENCIES:
+  - SecondProj (from `/Users/ankita_k/Documents/AnkitsGit/DMCocoapods/SecondProj`)
+
+EXTERNAL SOURCES:
+  SecondProj:
+    :path: "/Users/ankita_k/Documents/AnkitsGit/DMCocoapods/SecondProj"
+
+SPEC CHECKSUMS:
+  SecondProj: c6c36d5c14ba3d1ecee253937e21c1e85c5b2a49
+
+PODFILE CHECKSUM: 59b667e0b29c01abb4a4e4e3c90dd8b49a7205ee
+
+COCOAPODS: 1.5.3

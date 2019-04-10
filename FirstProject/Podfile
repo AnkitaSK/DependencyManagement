@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'FirstProject' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+	pod 'SecondProj', :path => '/Users/ankita_k/Documents/AnkitsGit/DMCocoapods/SecondProj'
+    #pod 'SecondProj', :git => '/Users/ankita_k/Documents/AnkitsGit/DMCocoapods/SecondProj'
+  # Pods for FirstProject
+
+end
